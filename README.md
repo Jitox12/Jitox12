@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Boggen</h1>
 <h3 align="center">A Junior Backend Developer From Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/aNqEFrYVnsS52">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jitox12&label=Profile%20views&color=0e75b6&style=flat](https://community.codenewbie.org/images/LED5sy-T4bBQ85w2aogJf_Br_NeyXAd5y3Y-j50L_vg/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvZDI5dTJxYmFo/a2FpODdnZ3l3NG4u/Z2lm)" alt="jitox12" /> </p>
 
 - 🌱 I’m currently learning **JUnit 5, AWS, Docker, Kubernetes**
 
