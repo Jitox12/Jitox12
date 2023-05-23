@@ -10,9 +10,7 @@
 
 - 👨‍💻(En Proceso)Mis Proyectos pueden encontrarse en: [https://github.com/Jitox12/Portfolio1](https://github.com/Jitox12/Portfolio1)
 
-- 💬 Ask me about **Java, SpringBoot**
-
-- 📫 How to reach me **jboggenmontanares@gmail.com**
+- 📫 Correo de Contacto: **jboggenmontanares@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
