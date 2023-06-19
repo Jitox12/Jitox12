@@ -8,8 +8,6 @@
 
 - 🌱 En proceso de aprendizaje para: **AWS, Docker, Kubernetes, Tecnologías de Front (HTML, CS, JS, REACT)**
 
-- 👨‍💻(En Proceso)Mis Proyectos pueden encontrarse en: [https://github.com/Jitox12/Portfolio1](https://github.com/Jitox12/Portfolio1)
-
 - 📫 Correo de Contacto: **jboggenmontanares@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
