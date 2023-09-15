@@ -5,7 +5,7 @@
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://community.codenewbie.org/images/LED5sy-T4bBQ85w2aogJf_Br_NeyXAd5y3Y-j50L_vg/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvZDI5dTJxYmFo/a2FpODdnZ3l3NG4u/Z2lm"></p>
 
 - 🔭 Actualmente estoy trabajando en: </br>
-                                      [DIGIPEDIA(JAVA-SPRINGBOOT)] http://18.229.117.23:8080/api/v1/digimon/find-all</br>
+                                      [DIGIPEDIA(JAVA-SPRINGBOOT)] </br>https://github.com/Jitox12/Simply_Digipedia</br>
                                       [Portfolio(HTML, CSS, JS)]</br> https://lucent-lokum-8a6482.netlify.app/#home
 
 - 🌱 En proceso de aprendizaje para: **AWS, Docker, Kubernetes, Tecnologías de Front (HTML, CS, JS, REACT)**
